@@ -1,0 +1,17 @@
+﻿  Projeto.cpp
+C:\CABULAS\cadeiras\3ano\CG\Projeto\Projeto\Projeto.cpp(31,52): warning C4838: a conversão de 'double' em 'float' requer uma conversão de restrição
+C:\CABULAS\cadeiras\3ano\CG\Projeto\Projeto\Projeto.cpp(180,28): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+C:\CABULAS\cadeiras\3ano\CG\Projeto\Projeto\Projeto.cpp(180,60): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+C:\CABULAS\cadeiras\3ano\CG\Projeto\Projeto\Projeto.cpp(200,28): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\CABULAS\cadeiras\3ano\CG\Projeto\Projeto\Projeto.cpp(200,34): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\CABULAS\cadeiras\3ano\CG\Projeto\Projeto\Projeto.cpp(200,40): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\CABULAS\cadeiras\3ano\CG\Projeto\Projeto\Projeto.cpp(201,28): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\CABULAS\cadeiras\3ano\CG\Projeto\Projeto\Projeto.cpp(201,34): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\CABULAS\cadeiras\3ano\CG\Projeto\Projeto\Projeto.cpp(201,40): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\CABULAS\cadeiras\3ano\CG\Projeto\Projeto\Projeto.cpp(204,26): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\CABULAS\cadeiras\3ano\CG\Projeto\Projeto\Projeto.cpp(204,32): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\CABULAS\cadeiras\3ano\CG\Projeto\Projeto\Projeto.cpp(204,38): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\CABULAS\cadeiras\3ano\CG\Projeto\Projeto\Projeto.cpp(205,26): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\CABULAS\cadeiras\3ano\CG\Projeto\Projeto\Projeto.cpp(205,32): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\CABULAS\cadeiras\3ano\CG\Projeto\Projeto\Projeto.cpp(205,38): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+  Projeto.vcxproj -> C:\CABULAS\cadeiras\3ano\CG\Projeto\Projeto\Debug\Projeto.exe
